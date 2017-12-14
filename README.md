@@ -15,5 +15,6 @@ Learn everything you need to about the subject of this `Tutorial` project.
 
 ## Topics
 ```
+[x] Monitorama PDX 2014 - Dashing Workshop
 [ ] Learn Dashing Widget in 90 minutes
 ```
